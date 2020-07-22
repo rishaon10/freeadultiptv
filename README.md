@@ -1,38 +1,35 @@
-# Free Adult IPTV Links
-
-Playlist: http://cdn.adultiptv.net/lists/all.m3u8
-
-Playlist is updated in every 10 minutes. New channels are added and not working ones are removed.
-
-# MILF
+#EXTM3U
+#EXTINF:-1,
+http://cdn.adultiptv.net/lists/all.m3u8 
+#EXTINF:-1 group-title="English",
 http://cdn.adultiptv.net/milf.m3u8
-# Big Dick
+#EXTINF:-1 group-title="English", Dick
 http://cdn.adultiptv.net/bigdick.m3u8
-# Big Tits
+#EXTINF:-1 group-title="English", Tits
 http://cdn.adultiptv.net/bigtits.m3u8
-# Fetish
+#EXTINF:-1 group-title="English",
 http://cdn.adultiptv.net/fetish.m3u8
-# Pornstar
+#EXTINF:-1 group-title="English",
 http://cdn.adultiptv.net/pornstar.m3u8
-# Big Ass
+#EXTINF:-1 group-title="English",
 http://cdn.adultiptv.net/bigass.m3u8
-# Interracial
+#EXTINF:-1 group-title="English",
 http://cdn.adultiptv.net/interracial.m3u8
-# Latina
+#EXTINF:-1 group-title="English",
 http://cdn.adultiptv.net/latina.m3u8
-# POV
+#EXTINF:-1 group-title="English",
 http://cdn.adultiptv.net/pov.m3u8
-# Blowjob
+#EXTINF:-1 group-title="English",
 http://cdn.adultiptv.net/blowjob.m3u8
-# Teen
+#EXTINF:-1 group-title="English",
 http://cdn.adultiptv.net/teen.m3u8
-# Hardcore
+#EXTINF:-1 group-title="English",
 http://cdn.adultiptv.net/hardcore.m3u8
-# Cuckold
+#EXTINF:-1 group-title="English",
 http://cdn.adultiptv.net/cuckold.m3u8
-# Threesome
+#EXTINF:-1 group-title="English",
 http://cdn.adultiptv.net/threesome.m3u8
-# Russian
+#EXTINF:-1 group-title="English",
 http://cdn.adultiptv.net/russian.m3u8
-# Lesbian
+#EXTINF:-1 group-title="English",
 http://cdn.adultiptv.net/lesbian.m3u8
